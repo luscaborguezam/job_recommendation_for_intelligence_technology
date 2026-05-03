@@ -1,6 +1,10 @@
 # job_recommendation_for_intelligence_technology
-Treino do uso de IA com TensorFlow js, para classificar clientes em perfis especificos.
 
+## Caso de Uso: Classificação de Perfil de Investidor
+
+O objetivo é criar uma lógica onde, baseando-se no **comportamento financeiro** e **objetivo** de um usuário, a IA determine qual é o "pacote de benefícios" ou "perfil" que ele deve assumir.
+
+## Dados utilizados
 ```jsx
 // Características (Inputs)
 const clientes = [
@@ -25,6 +29,3 @@ const perfis = [
 ];
 ```
 
-## Caso de Uso: Classificação de Perfil de Investidor
-
-O objetivo é criar uma lógica onde, baseando-se no **comportamento financeiro** e **objetivo** de um usuário, a IA determine qual é o "pacote de benefícios" ou "perfil" que ele deve assumir.
