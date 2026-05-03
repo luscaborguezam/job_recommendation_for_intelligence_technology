@@ -56,7 +56,6 @@ async function predict(model, inputData) {
 }
 
 
-//1. Definir os dados de entrada e categorias (dados e  a resposta esperada).
 // Características (Inputs)
 const tensor_clientes = [
   [ 0.635, 0.722, 1, 0, 0, 0, 0, 1, 0, 0 ],
